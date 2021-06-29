@@ -1,0 +1,95 @@
+body {
+    background: linear-gradient(to bottom, #cae9f3 0%, #f8dcea 100%);
+    margin-right: 200px; 
+    margin-left: 200px; 
+}
+
+#marriage-title {
+    background-color: #f3ec78;
+    background-image: linear-gradient(to top, #f80000 0%, #ffee00 100%);
+    background-size: 100%;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    -moz-text-fill-color: transparent;
+    margin-top: 0px; 
+    padding-top: 0px;
+}
+
+.date-title {
+    font-family: ui-sans-serif,system-ui; 
+    font-size: 40px; 
+    text-align: center; 
+    color: grey;
+    position: relative; 
+    opacity: 0.7;
+}
+
+#head-title {
+    opacity: 1;
+    font-size: 75px; 
+    color: black;
+    position: relative; 
+}
+
+.desc {
+    font-size: 20px; 
+    text-align: center; 
+    font-family: ui-sans-serif, system-ui; 
+    position: relative; 
+}
+
+#head-desc {
+    font-size: 25px; 
+    position: relative; 
+    text-align: center; 
+}
+
+
+.haldi-images {
+    text-align: center; 
+}
+
+.haldi-lunch-images{
+    text-align: center;
+}
+
+.last-haldi-images{
+    text-align: center;
+}
+
+
+.event-title {
+    font-size: 25px; 
+    font-family: ui-sans-serif, system-ui; 
+    text-align: center; 
+    position: relative; 
+}
+
+#pour-water {
+    width: 300px; 
+}
+
+.upper-mehendi-images{
+    text-align: center;
+}
+
+.middle-mehendi-images {
+    text-align: center; 
+}
+
+.bottom-mehendi-images {
+    text-align: center; 
+}
+
+.ritual-name {
+    font-family: ui-sans-serif,system-ui; 
+    font-size: 25px; 
+    text-align: center; 
+}
+
+.ritual-text {
+    font-family: ui-sans-serif, system-ui;
+    text-align: center;
+    font-size: 17px; 
+}
